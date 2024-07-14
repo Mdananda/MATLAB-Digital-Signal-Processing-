@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"F:\MicroController Lab\4 Digit\FourDigit.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"F:\MicroController Lab\4 Digit\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "FourDigit.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	FourDigit.c
+diagnostics: 46	123	Compiled Successfully	FourDigit.c
+hint: 4	1164	Variable 'a' has been eliminated by optimizer	FourDigit.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 26 (7%)  Free RAM (bytes): 326 (93%)	Used RAM (bytes): 26 (7%)  Free RAM (bytes): 326 (93%)
+hint: 0	1144	Used ROM (program words): 426 (5%)  Free ROM (program words): 7766 (95%)	Used ROM (program words): 426 (5%)  Free ROM (program words): 7766 (95%)
+diagnostics: 0	125	Project Linked Successfully	FourDigit.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'FourDigit.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 27 Nov 2023, 14:36:26	FourDigit.mcppi

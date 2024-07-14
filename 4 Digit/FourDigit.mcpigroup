@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\DC Motor Control\DcMotorControll.mcppi
+Project1=FourDigit.mcppi
+[ActiveProject]
+Index=1
